@@ -7,7 +7,7 @@ print("this is a commented line in Python")
 
 #Python treats single quotes the same as double quotes.
 print("Python treats single quotes the same as double quotes.")
-x='Inceptez'
+x='Inceptez Tech'
 y="'Technologies '"
 z="Pvt.\nLtd."
 print("welcome " + x + y+z)
