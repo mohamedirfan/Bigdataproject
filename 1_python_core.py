@@ -1,4 +1,4 @@
-print("************** 1. Basic Python Programing*************")
+print("************** 1. Python Programing basics*************")
 print("this is a commented line in Python")
 # this is a commented line in Python
 '''This is a
