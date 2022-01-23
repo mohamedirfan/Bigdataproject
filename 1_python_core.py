@@ -19,7 +19,7 @@ Pyspark"""
 #Standard output options
 var1=" Years"
 var2=" Inceptez "
-totalsal,empid=10000+2000, 10
+totalsal,empid=10000+2000, 100
 
 print("Total sal is ", totalsal, "for the emp id ", empid); #considered as different prints
 print("Total sal is " + str(totalsal) + " for the emp id " + str(empid)) #convert to string to concatenate
